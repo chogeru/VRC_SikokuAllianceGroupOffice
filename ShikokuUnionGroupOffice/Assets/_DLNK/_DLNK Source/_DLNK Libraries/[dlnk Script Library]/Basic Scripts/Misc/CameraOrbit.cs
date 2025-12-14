@@ -40,6 +40,10 @@ public class CameraOrbit : MonoBehaviour
             transform.rotation = rotation;
             transform.position = position;
         }
+        else
+        {
+            Target = GameObject.FindWithTag("Player").transform;
+        }
     }
 
     private float ClampAngle(float angle, float min, float max)
