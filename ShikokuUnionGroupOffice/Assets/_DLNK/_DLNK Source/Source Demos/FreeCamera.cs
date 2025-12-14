@@ -35,11 +35,11 @@ public class FreeCamera : MonoBehaviour {
 	void CaptureInput() {
 		Cursor.lockState = CursorLockMode.Locked;
 
-//#if UNITY_EDITOR
-	//	Cursor.SetCursor(ms_invisibleCursor, Vector2.zero, CursorMode.ForceSoftware);
-//#else
+#if UNITY_EDITOR
+		Cursor.SetCursor(ms_invisibleCursor, Vector2.zero, CursorMode.ForceSoftware);
+#else
 		Cursor.visible = false;
-//#endif
+#endif
 		m_inputCaptured = true;
 
 		m_yaw = transform.eulerAngles.y;
