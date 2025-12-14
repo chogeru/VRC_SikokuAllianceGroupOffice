@@ -14,36 +14,6 @@
     },
     "dev.onevr.vrworldtoolkit": {
       "version": "3.3.2"
-    },
-    "com.llealloo.audiolink": {
-      "version": "2.1.0"
-    },
-    "jp.lilxyzw.liltoon": {
-      "version": "2.3.2"
-    },
-    "jp.lilxyzw.avatar-utils": {
-      "version": "2.1.2"
-    },
-    "jp.lilxyzw.lilycalinventory": {
-      "version": "1.5.2"
-    },
-    "jp.lilxyzw.editortoolbox": {
-      "version": "1.11.0"
-    },
-    "jp.lilxyzw.outlinesmoother": {
-      "version": "1.0.1"
-    },
-    "jp.lilxyzw.anythingreplacer": {
-      "version": "1.0.0"
-    },
-    "jp.lilxyzw.lilpbr": {
-      "version": "1.0.0"
-    },
-    "jp.lilxyzw.ndmfmeshsimplifier": {
-      "version": "0.3.0"
-    },
-    "nadena.dev.misc-vrc-tools": {
-      "version": "0.0.8"
     }
   },
   "locked": {
@@ -67,56 +37,6 @@
     },
     "dev.onevr.vrworldtoolkit": {
       "version": "3.3.2",
-      "dependencies": {}
-    },
-    "com.llealloo.audiolink": {
-      "version": "2.1.0",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.liltoon": {
-      "version": "2.3.2",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.avatar-utils": {
-      "version": "2.1.2",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.lilycalinventory": {
-      "version": "1.5.2",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.editortoolbox": {
-      "version": "1.11.0",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.outlinesmoother": {
-      "version": "1.0.1",
-      "dependencies": {
-        "nadena.dev.ndmf": "^1.5.0"
-      }
-    },
-    "nadena.dev.ndmf": {
-      "version": "1.9.4",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.anythingreplacer": {
-      "version": "1.0.0",
-      "dependencies": {
-        "nadena.dev.ndmf": "^1.5.0"
-      }
-    },
-    "jp.lilxyzw.lilpbr": {
-      "version": "1.0.0",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.ndmfmeshsimplifier": {
-      "version": "0.3.0",
-      "dependencies": {
-        "nadena.dev.ndmf": "^1.5.0"
-      }
-    },
-    "nadena.dev.misc-vrc-tools": {
-      "version": "0.0.8",
       "dependencies": {}
     }
   }

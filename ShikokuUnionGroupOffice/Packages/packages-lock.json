@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.llealloo.audiolink": {
-      "version": "file:com.llealloo.audiolink",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
       "depth": 1,
@@ -229,68 +223,6 @@
       "source": "embedded",
       "dependencies": {
         "com.unity.postprocessing": "3.1.1"
-      }
-    },
-    "jp.lilxyzw.anythingreplacer": {
-      "version": "file:jp.lilxyzw.anythingreplacer",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.avatar-utils": {
-      "version": "file:jp.lilxyzw.avatar-utils",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.editortoolbox": {
-      "version": "file:jp.lilxyzw.editortoolbox",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.lilpbr": {
-      "version": "file:jp.lilxyzw.lilpbr",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.liltoon": {
-      "version": "file:jp.lilxyzw.liltoon",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.lilycalinventory": {
-      "version": "file:jp.lilxyzw.lilycalinventory",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.ndmfmeshsimplifier": {
-      "version": "file:jp.lilxyzw.ndmfmeshsimplifier",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.outlinesmoother": {
-      "version": "file:jp.lilxyzw.outlinesmoother",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "nadena.dev.misc-vrc-tools": {
-      "version": "file:nadena.dev.misc-vrc-tools",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "nadena.dev.ndmf": {
-      "version": "file:nadena.dev.ndmf",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.modules.animation": "1.0.0"
       }
     },
     "vrchat.jordo.easyquestswitch": {
